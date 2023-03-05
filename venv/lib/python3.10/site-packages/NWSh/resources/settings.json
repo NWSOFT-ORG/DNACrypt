@@ -1,0 +1,38 @@
+// Default user preferences
+{
+    "styles": {
+        "default": {
+            // Plain text
+            "": "",
+            // Header
+            "title": "#37AFAE",
+            "description": "#356161",
+            // Prompt
+            "subsystem_name": "#368A8A",
+            "system_name": "#57B4B4",
+            "number": "#37AFAE",
+            "prompt": "#ffffff",
+            // Warnings/Errors
+            "warning": "#FFA500",
+            "error": "#FF0000",
+            "result": "#4188C6"
+        },
+        "green": {
+            // Plain text
+            "": "",
+            // Header
+            "title": "#77BC41",
+            "description": "#537B2B",
+            // Prompt
+            "subsystem_name": "#669D35",
+            "system_name": "#8ABF4F",
+            "number": "#77BC41",
+            "prompt": "#ffffff",
+            // Warnings/Errors
+            "warning": "#FFA500",
+            "error": "#FF0000",
+            "result": "#4188C6"
+        }
+    },
+    "using": "default"
+}
